@@ -1,0 +1,8 @@
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.exe.config
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.exe
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\bin\Debug\LogicalProblems.pdb
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.csproj.AssemblyReference.cache
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.csproj.SuggestedBindingRedirects.cache
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.csproj.CoreCompileInputs.cache
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.exe
+H:\RFP296\LogicalProblems\LogicalProblems\LogicalProblems\obj\Debug\LogicalProblems.pdb
